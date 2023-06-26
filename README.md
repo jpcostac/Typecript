@@ -1,2 +1,2 @@
-# Typecript
+# Typescript
 Typescript Alura
